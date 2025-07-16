@@ -154,7 +154,7 @@ npm install
 npm run dev
 ```
 
-Open your browser at: [http://localhost:5173](http://localhost:5173)
+Open your browser Ex : [http://localhost:5173](http://localhost:5173)
 
 ---
 
